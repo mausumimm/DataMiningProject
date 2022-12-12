@@ -1,0 +1,2 @@
+# DataMiningProject
+IBM Attrition Rate
